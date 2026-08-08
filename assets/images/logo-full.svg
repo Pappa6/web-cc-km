@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 130" role="img" aria-labelledby="km-logo-title">
+  <title id="km-logo-title">Karunamayee</title>
+  <defs>
+    <radialGradient id="goldFillFull" cx="35%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#E9C773"/>
+      <stop offset="55%" stop-color="#D3A63C"/>
+      <stop offset="100%" stop-color="#B8862A"/>
+    </radialGradient>
+  </defs>
+  <g transform="translate(5,5)">
+    <circle cx="60" cy="60" r="56" fill="#FBF6EF" stroke="#7C1F2C" stroke-width="5"/>
+    <circle cx="60" cy="60" r="47" fill="url(#goldFillFull)"/>
+    <text x="60" y="76" text-anchor="middle" font-family="'Playfair Display', Georgia, serif" font-weight="700" font-style="italic" font-size="46" fill="#7C1F2C">km</text>
+  </g>
+  <text x="140" y="65" font-family="'Noto Sans Bengali','Playfair Display',serif" font-weight="700" font-size="34" fill="#7C1F2C">করুণাময়ী</text>
+  <text x="141" y="92" font-family="'Jost','Inter',sans-serif" font-weight="500" font-size="15" letter-spacing="4" fill="#8A7B63">KARUNAMAYEE</text>
+</svg>
